@@ -1,5 +1,5 @@
 # Coding Challenge (React)
-A coding challenge in which I practised by React skills along with other frameworks like Tailwind for the styling and Framer motion for the animations
+A coding challenge in which I practised my React skills along with other frameworks like Tailwind for the styling and Framer motion for the animations
 
 ## Technologies Used
 1. React
@@ -12,7 +12,7 @@ A coding challenge in which I practised by React skills along with other framewo
 3. I was able to use Framer motion for animations
 4. Learnt more about React file structuring to make my codes more reuseable and to obey the DRY principle
 
-## Challenges in the prokect
+## Challenges in the project
 1. Extracting design content to a separate js file and export was a little bit of work
 2. Setting up Framer motions always was stressful
 3. Using Tailwind had me going back and forth from its documentation.
